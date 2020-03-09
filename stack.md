@@ -37,10 +37,10 @@
 #### [구현] python list 사용
 
 ##### ADT
->def is_empty() - 검사 (데이터 유무 확인)
-def push - 삽입 (맨 위에 데이터 입력)
-def pop - 삭제 (맨 위 데이터 반확하고 삭제)
-def peek - 확인 (맨 위 값 반환만 하고 삭제 안함)
+>def is_empty() - 검사 (데이터 유무 확인)   
+def push - 삽입 (맨 위에 데이터 입력)   
+def pop - 삭제 (맨 위 데이터 반확하고 삭제)    
+def peek - 확인 (맨 위 값 반환만 하고 삭제 안함)   
 
 ##### Code
 ```python
@@ -80,11 +80,11 @@ if __name__=="__main__":
 <center><img src=https://github.com/thekim9304/Algorithm_Study/blob/master/img/SinglyLinkedList.JPG?raw=true width=40%></center>
 
 ##### ADT
->class Node - 데이터를 저장 할 노드 클래스 (데이터와 가리킬 노드 저장 공간 초기화)
-def is_empty() - 검사 (데이터 유무 확인)
-def push - 삽입 (맨 위에 데이터 입력)
-def pop - 삭제 (맨 위 데이터 반확하고 삭제)
-def peek - 확인 (맨 위 값 반환만 하고 삭제 안함)
+>class Node - 데이터를 저장 할 노드 클래스 (데이터와 가리킬 노드 저장 공간 초기화)   
+def is_empty() - 검사 (데이터 유무 확인)   
+def push - 삽입 (맨 위에 데이터 입력)   
+def pop - 삭제 (맨 위 데이터 반확하고 삭제)   
+def peek - 확인 (맨 위 값 반환만 하고 삭제 안함)   
 
 ##### Code
 ```python
