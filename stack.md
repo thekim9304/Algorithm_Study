@@ -3,7 +3,7 @@
 - 데이터 저장소에서 새로 들어오는 데이터의 위치가 저장소의 끝 부분(Top 혹은 Top pointer)이고, 내보내는 데이터 역시 저장소의 Top에서 나간다.   
 - 입력은 push, 출력은 pop, peek은 Top의 위치에 있는 데이터를 확인하는 것
 <center><img src=https://wayhome25.github.io/assets/post-img/cs/stack.jpg width=40%></center>
-asd
+
 ### 추상 자료형(ADT : Abstact Data Type)
 - 기능의 구현 부분을 나타내지 않고 순수한 기능이 무엇인지 나열한 것을 추상 자료형이라고 한다.
   > 예를 들면, 사용 설명서와 같다.
