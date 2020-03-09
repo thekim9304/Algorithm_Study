@@ -77,7 +77,7 @@ if __name__=="__main__":
 ```
 #### [구현] python node 사용 (Singly linked list)
 
-<center><img src=img/SinglyLinkedList.jpg width=40%></center>
+<center><img src=https://github.com/thekim9304/Algorithm_Study/blob/master/img/SinglyLinkedList.JPG?raw=true width=40%></center>
 
 ##### ADT
 >class Node - 데이터를 저장 할 노드 클래스 (데이터와 가리킬 노드 저장 공간 초기화)
