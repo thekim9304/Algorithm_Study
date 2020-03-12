@@ -1,7 +1,7 @@
 # TREE
 
 <p align="center">
-  <img src="img/treeimg.jpg" width=50%>
+  <img src="img/treeimg.JPG" width=50%>
 </o>
 
 - root / 부모 노드(parent node) / 자식 노드(child node) / 형제 노드(sibling node) / leaf
