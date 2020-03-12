@@ -1,6 +1,6 @@
 # TREE
 
-<center><img src="/img/treeimg.jpg" width=50%></center>
+<center><img src="img/treeimg.jpg" width=50%></center>
 
 - root / 부모 노드(parent node) / 자식 노드(child node) / 형제 노드(sibling node) / leaf
 - 레벨(level) / 높이(height)
@@ -161,5 +161,5 @@
       _level_order_traversal(self.root)
   ```
 
-[참고1*****](https://geonlee.tistory.com/72)
+[참고1***** + 코드](https://geonlee.tistory.com/72)
 [참고2](http://ceadserv1.nku.edu/longa//classes/mat385_resources/docs/traversal.htm)
