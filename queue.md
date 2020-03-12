@@ -1,6 +1,8 @@
 # QUEUE
 
-<center><img src=https://image.shutterstock.com/image-vector/people-long-queue-vector-illustration-260nw-1142178392.jpg width=50%></center>
+<p align="center">
+  <img src=https://image.shutterstock.com/image-vector/people-long-queue-vector-illustration-260nw-1142178392.jpg width=50%>
+</p>
 
 - FIFO (First Input First Out, 선입선출)
 - `Rear`에서 삽입, `Front`에서 삭제가 발생
@@ -14,14 +16,20 @@
 #### Enqueue
 
 - 데이터 입력
-<center><img src=https://wayhome25.github.io/assets/post-img/cs/queue1.jpg width=50%></center>
+
+<p align="center">
+  <img src=https://wayhome25.github.io/assets/post-img/cs/queue1.jpg width=50%>
+</p>
 
 - `queue overflow` : 큐가 꽉 차서 더이상 자료를 넣을 수 없는 경우
 
 #### Dequeue
 
 - 데이터 삭제
-<center><img src=https://wayhome25.github.io/assets/post-img/cs/queue2.jpg width=50%></center>
+
+<p align="center">
+  <img src=https://wayhome25.github.io/assets/post-img/cs/queue2.jpg width=50%>
+</p>
 
 - `queue underflow` : 큐가 비어있어 자료를 꺼낼 수 없는 경우
 
